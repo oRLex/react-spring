@@ -2,3 +2,5 @@ spring:
   datasource:
     username: "postgres"
     password: "pg123"
+  jpa:
+    show-sql: true
